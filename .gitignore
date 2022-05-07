@@ -1,0 +1,6 @@
+__pycache__
+
+*.exe
+*.zip
+*.o
+*.conf
