@@ -49,6 +49,6 @@ class student(object):
 
 
 if __name__=="__main__":
-    user = student("3210100854", "Zjr151884903")
+    user = student("1","2")
     web = website()
     print(web.login(user))
